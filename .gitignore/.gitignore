@@ -1,1 +1,5 @@
-I want to add two numbers , plz help me
+#I want to add two numbers , plz help me
+a= int(input("Enter the Number 1"))
+b= int(input("Enter the Number 2"))
+sum= a+b
+print("Sum of Given Number Is ",sum)
